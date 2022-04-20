@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "fs-extra": "^10.1.0",
+    "log-update": "^5.0.0"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
